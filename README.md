@@ -1,4 +1,4 @@
-# 基于SpringBoot+Vue古诗词微信小程序
+# 基于Java+Springboot+Vue古诗词微信小程序
 
 # 获取地址
 
